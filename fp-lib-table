@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "BLDC")(type "KiCad")(uri "${KIPRJMOD}/BLDC.pretty")(options "")(descr ""))
+)

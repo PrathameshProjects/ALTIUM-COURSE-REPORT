@@ -1,0 +1,224 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "0e9ec8bb-3024-4b2a-a006-9a79b7a35050")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 155.194 62.992)
+		(size 50.8 38.227)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "325fb3fe-dba8-4ced-9296-7714aff8e749")
+		(property "Sheetname" "CONTROLLER"
+			(at 155.194 62.2804 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CONTROLLER.kicad_sch"
+			(at 155.194 101.8036 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "bldc"
+				(path "/0e9ec8bb-3024-4b2a-a006-9a79b7a35050"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 154.94 109.22)
+		(size 50.8 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "40c87223-96f4-4d46-9c46-3090deb53f15")
+		(property "Sheetname" "CURRENT_SENSE"
+			(at 154.94 108.5084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CURRENT_SENCE.kicad_sch"
+			(at 154.94 146.6346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "bldc"
+				(path "/0e9ec8bb-3024-4b2a-a006-9a79b7a35050"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 77.47 109.22)
+		(size 54.102 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8801151c-4dde-466f-b636-5b57f0ada734")
+		(property "Sheetname" "POWER_CIRCUIT"
+			(at 77.47 108.5084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "POWER_CIRCUIT.kicad_sch"
+			(at 77.47 146.6346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "bldc"
+				(path "/0e9ec8bb-3024-4b2a-a006-9a79b7a35050"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 215.9 63.5)
+		(size 52.07 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a551219c-56ff-43b0-b89c-8a98940d7666")
+		(property "Sheetname" "GATE_DRIVER"
+			(at 215.9 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "GATE_DRIVER.kicad_sch"
+			(at 215.9 102.1846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "bldc"
+				(path "/0e9ec8bb-3024-4b2a-a006-9a79b7a35050"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 78.74 62.738)
+		(size 50.8 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e473916c-ce1a-423a-8099-16cd3f89a56a")
+		(property "Sheetname" "INVERTER_DES"
+			(at 78.74 62.0264 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "INVERTER_DES.kicad_sch"
+			(at 78.74 101.4226 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "bldc"
+				(path "/0e9ec8bb-3024-4b2a-a006-9a79b7a35050"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
